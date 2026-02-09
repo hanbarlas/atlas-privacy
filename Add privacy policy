@@ -1,0 +1,79 @@
+<!doctype html>
+<html lang="tr">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Gizlilik Politikası - Atlas Harçlık</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      max-width: 900px;
+      margin: 40px auto;
+      padding: 0 16px;
+      line-height: 1.6;
+      color: #111;
+    }
+    h1, h2 {
+      line-height: 1.25;
+    }
+    .muted {
+      color: #666;
+      font-size: 14px;
+    }
+  </style>
+</head>
+<body>
+
+  <h1>Gizlilik Politikası</h1>
+  <p class="muted">Son güncelleme: 10 Şubat 2026</p>
+
+  <p>
+    Atlas Harçlık uygulaması olarak kullanıcı gizliliğini önemsiyoruz.
+    Bu gizlilik politikası, uygulamanın kullanıcı verilerini nasıl topladığını,
+    kullandığını ve koruduğunu açıklar.
+  </p>
+
+  <h2>Toplanan Veriler</h2>
+  <ul>
+    <li>Kullanıcı tarafından girilen ebeveyn ve çocuk isimleri</li>
+    <li>Görev, ödül ve harçlık kayıtları</li>
+    <li>Uygulamanın çalışması için gerekli teknik veriler</li>
+  </ul>
+
+  <h2>Verilerin Kullanım Amacı</h2>
+  <p>
+    Toplanan veriler yalnızca uygulamanın temel işlevlerini sağlamak için kullanılır.
+    Reklam, pazarlama veya veri satışı yapılmaz.
+  </p>
+
+  <h2>Çocukların Gizliliği</h2>
+  <p>
+    Atlas Harçlık, 13 yaşından küçük çocukları da kapsayabilir.
+    Çocuklara ait veriler yalnızca ebeveyn tarafından girilir ve ebeveyn kontrolü altındadır.
+    Çocuk verileri reklam veya analiz amacıyla kullanılmaz.
+  </p>
+
+  <h2>Üçüncü Taraf Hizmetler</h2>
+  <p>
+    Uygulama, Google Firebase (ör. Auth ve Firestore) hizmetlerini kullanabilir.
+    Bu hizmetler Google’ın kendi gizlilik politikalarına tabidir.
+  </p>
+
+  <h2>Veri Güvenliği</h2>
+  <p>
+    Veriler güvenli altyapılarda saklanır ve yetkisiz erişime karşı korunur.
+  </p>
+
+  <h2>Veri Silme</h2>
+  <p>
+    Kullanıcılar, veri silme talepleri için bizimle iletişime geçebilir.
+  </p>
+
+  <h2>İletişim</h2>
+  <p>
+    Gizlilik ile ilgili sorular için:<br>
+    E-posta: <strong>destek@atlas-harclik.com</strong>
+  </p>
+
+</body>
+</html>
